@@ -1,11 +1,15 @@
 ---
-title: "maelan-hauswirth.github.io"
+title: "Maelan Hauswirth"
+image: 20190611.jpg
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/maelan-hauswirth/
+    - text: GitHub
+      href: https://github.com/maelan-hauswirth
+    - text: Email
+      href: mailto:maelan.hauswirth@colostate.edu
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```

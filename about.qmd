@@ -1,9 +1,19 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+*About*
 
-```{r}
-1 + 1
-```
+**Education:**
+
+Colorado State University
+
+-   Bachelor of Science
+
+    -    Biology and Global Environmental Sustainability
+
+-   Pursuing Professional Science Master's
+
+    -    Ecosystem Science and Sustainability
+
+        -   Certificate in Carbon Management
