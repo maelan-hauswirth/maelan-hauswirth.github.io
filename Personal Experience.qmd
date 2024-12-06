@@ -1,6 +1,0 @@
----
-title: "Blog"
-author: "Maelan Hauswirth"
----
-
-Things related to the home zoo

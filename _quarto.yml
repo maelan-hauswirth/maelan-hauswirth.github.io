@@ -9,13 +9,15 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - Personal Experience.qmd
+
 
 format:
   html:
     theme: minty
     css: styles.css
     toc: true
+    grid:
+      margin-width: 450px
 
 editor: visual
 
