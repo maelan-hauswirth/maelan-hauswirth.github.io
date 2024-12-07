@@ -2,18 +2,94 @@
 title: "Work Experience"
 ---
 
-Soil Innovation Lab
+**Colorado State University Soil Innovation Lab**
 
-*Colorado State University*
+Soil Research Laboratory Technician
 
-*May 2022-Present*
+*Fort Collins, CO*
 
--   I am working on a large project researching how grazing management impacts soil health and soil carbon sequestration on rangeland and pastures.
+May 2022-Present
 
-    -   Soil processing
+-   I work at Colorado State University's [Soil Innovation Lab](https://agsci.colostate.edu/soilinnovationlab/) under Dr. Francesca Cotrufo and Dr. Paige Stanley. The Soil Innovation Lab collaborates on research of soil from all around the world to better understand the health and function of soils.
 
-    -   Archive soil
+    -   I am working on a large project researching how grazing management impacts soil health and soil carbon sequestration on rangeland and pastures. The project is called the **Metrics, Management, & Monitoring (3M)** project and is being led by Colorado State University, Noble Research Institute, and Michigan State University with other collaborators across the United States as well as in the United Kingdom.
 
-    -   Conduct quantitative soil tests to measure carbon, size and density fractionate soils,
+        -   Assist on a rangeland/ pasture soil health and carbon sequestration study by processing thousands of soil samples, including sieving and biogeochemical tests
 
--   
+        -   Accurately record data on spreadsheets and entering data into Excel spreadsheets
+
+        -   Coordinating and managing a large team of fellow lab assistant to keep a large research project running efficiently and smoothly
+
+        -   Maintaining a clean and organized lab space
+
+        -   Training 2-8 lab assistants on proper laboratory protocols and procedures
+
+        -   Assist with troubleshooting and coming up with practical solutions
+
+For more information, visit this website: <https://www.noble.org/research/3m/>
+
+:::::::: columns
+::: {.column width="30%"}
+![3M Project Cover](www/3M%20project%20cow%20picture.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+![Soil Sampling in Wyoming with Dr. Francesca Cotrufo](www/20220831_WYsampling.jpg){width="698"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+![Transplanting Seedlings to put in a Carbon Isotope Labeling Chamber](www/soilgreenhouse.jpg)
+:::
+::::::::
+
+**Colorado State University San Luis Valley Research Center**
+
+Grazing Management Intern
+
+Center, CO
+
+*May 2023- August 2023*
+
+-   I interned at the CSU San Luis Valley Research Center on a grazing management project during the summer of 2023. The San Luis Valley is a high altitude region in southern Colorado that specializes in agriculture, but faces a limited water supply. Because of this, farmers in the valley are exploring different ways they can use their land when it's not planted with cash crops. Integrating livestock onto cropland not actively growing cash crops is a practice being proposed, but comes with challenges producers normally specialize in either farming or ranching. I helped conduct a study on high density, rotational grazing with a small herd of goats to see if this form of management is economically and environmentally sustainable as well as practical to implement. I also worked with the director of the local CSU Extension, Larry Brown, to help create a way for producers to exchange goods and services, such as grazing land and animals that need land to graze on.
+
+    -   Interned with the San Luis Valley Research Center and Extension office to conduct a high density rotational grazing study
+
+    -   Managed a small herd of goats, including daily rotations of their pen, proper husbandry, medical care, and nutrition
+
+    -   Conducted and economic analysis to compare cost of forage and supplies to the benefits gained from high density rotational grazing
+
+    -   Collaborated with the local CSU Extension director to communicate with local producers to create a network/ list in order to connect producers who want to exchange goods and/ or services
+
+    -   Assisted with daily farm management tasks, such as operating a forklift, weeding fields, planting research plots, turn irrigation on and off, collect potato pollen for the breeding research team, and rogue diseased potato plants
+
+    -   Created a research poster to present my experience and results with stakeholders from Colorado State University and other companies
+
+:::::::: columns
+::: {.column width="30%"}
+![Two of the goats in my herd](www/20230725_greygoats.jpg)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+![Flowering potato plants. The CSU SLVRC is also a potato breeding farm](www/20230713_purplepotatoflowers.jpg)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+![Three calfs on the farm](www/20230725_3babycows.jpg)
+:::
+::::::::
+
+This is the poster I created to summarize my internship experience at the research center.
+
+![I conducted this research with help from Zach Czarnecki, Jeff Davidson, Larry Brown, and Dr. Megan Machmuller](www/2023extension%20poster.png){fig-align="center"}

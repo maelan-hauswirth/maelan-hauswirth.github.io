@@ -2,18 +2,20 @@
 title: "About Me"
 ---
 
-*About*
-
 **Education:**
 
 Colorado State University
 
 -   Bachelor of Science
 
-    -    Biology and Global Environmental Sustainability
+    -   August 2019- December 2023
+
+        -    Biology and Global Environmental Sustainability
 
 -   Pursuing Professional Science Master's
 
-    -    Ecosystem Science and Sustainability
+    -   August 2024-Present
 
-        -   Certificate in Carbon Management
+        -    Ecosystem Science and Sustainability
+
+            -   Certificate in Carbon Management

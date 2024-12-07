@@ -3,12 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "maelan-hauswirth.github.io"
+  title: "Maelan Hauswirth"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Work Experience.qmd
+      - Career Ambitions.qmd
+
 
 
 format:
