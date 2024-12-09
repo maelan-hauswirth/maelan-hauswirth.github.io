@@ -2,20 +2,28 @@
 title: "About Me"
 ---
 
-**Education:**
+# **Education:**
 
-Colorado State University
+### ***Colorado State University***
 
--   Bachelor of Science
+-   *Bachelor of Science*
 
     -   August 2019- December 2023
 
-        -    Biology and Global Environmental Sustainability
+        -   Biology
+            -   Minor in Global Environmental Sustainability
 
--   Pursuing Professional Science Master's
+            -   I gained a strong interest in microbiology
+
+                ![Hydra under a microscope](www/Snapchat-829241763.jpg){width="1079"}
+
+-   *Pursuing Professional Science Master's*
 
     -   August 2024-Present
 
-        -    Ecosystem Science and Sustainability
+        -   Ecosystem Science and Sustainability
 
             -   Certificate in Carbon Management
+            -   I have gained a strong interest in agrivoltaics and multiple land use
+
+            ![](www/20240813_110628.jpg)

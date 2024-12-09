@@ -1,3 +1,41 @@
 ---
 title: "Career Ambitions"
 ---
+
+I am currently pursuing a professional science master's in **Ecosystem Science and Sustainability** with a certificate in **Carbon Management** through the Warner College of Natural Resources at Colorado State University. During my time at CSU I will be networking with professionals and attending conferences to gain more knowledge about the field of sustainability, agriculture, and greenhouse gas management.
+
+![](www/PXL_20240211_192459894.jpg){fig-align="center" width="565"}
+
+-   I am interested in working in industry, academia, government, or non-profit sectors​.
+
+-   I enjoy working on **large projects**​ with many moving parts that have the potential to make an impact on people and the environment.
+
+-   I am interested in **nature-based climate solutions**​ because I believe that we can work with nature, instead of against it, in order to make a better world for people and the environment.
+
+-   I enjoy collaborating with **multiple disciplines** such as engineering, social science, environmental science, etc.
+
+-   I hope to get a job where I can be on a team that works on **sustainability**. I know I enjoy working on projects that have many moving parts so that I can have multiple responsibilities. I also enjoy working with people and being in a role where I can help organize projects and help team members. 
+
+-   After learning about **agrivoltaics** and volunteering a day at an agrivoltaic farm, I have a growing interest in these operations.
+
+    -   Agrivoltaics is the practice of combining agriculture with generating energy with solar panels
+
+:::::::: columns
+::: {.column width="30%"}
+![Many different plants and crops growing between solar panels](www/20241005_104917.jpg)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+![Sheep on the farm graze underneath the solar panels](www/20241005_113139.jpg)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+![Solar panels on the farm can tilt to capture sunlight as the sun moves](www/20241005_105829.jpg)
+:::
+::::::::

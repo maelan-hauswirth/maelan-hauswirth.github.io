@@ -14,4 +14,6 @@ about:
       href: mailto:maelan.hauswirth@colostate.edu
 ---
 
-This website is a way to get to know a little bit about me. Feel free to get in touch with me through Linkedin or email!
+This website is a way to get to know a little bit about me.
+
+Feel free to get in touch with me through Linkedin or email!
