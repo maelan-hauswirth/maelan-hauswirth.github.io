@@ -90,7 +90,7 @@ Center, CO
 :::
 ::::::::
 
-This is the poster I created to summarize my internship experience at the research center.
+This is the poster I created to summarize my internship experience at the research center:
 
 ![I conducted this research with help from Zach Czarnecki, Jeff Davidson, Larry Brown, and Dr. Megan Machmuller](www/2023extension%20poster.png){fig-align="center"}
 
