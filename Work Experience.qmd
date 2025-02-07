@@ -37,14 +37,14 @@ For more information, visit this website: <https://www.noble.org/research/3m/>
 :::
 
 ::: {.column width="30%"}
-![Soil Sampling in Wyoming with Dr. Francesca Cotrufo](www/20220831_WYsampling.jpg){width="698"}
+![Soil sampling in Wyoming with Dr. Francesca Cotrufo](www/20220831_WYsampling.jpg){width="698"}
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="30%"}
-![Transplanting Seedlings to put in a Carbon Isotope Labeling Chamber](www/soilgreenhouse.jpg)
+![Transplanting sudex seedlings to put in a Carbon Isotope Labeling Chamber](www/soilgreenhouse.jpg)
 :::
 ::::::::
 
@@ -79,14 +79,14 @@ Center, CO
 :::
 
 ::: {.column width="30%"}
-![Flowering potato plants. The CSU SLVRC is also a potato breeding farm](www/20230713_purplepotatoflowers.jpg)
+![Three calves on the farm](www/20230725_3babycows.jpg)
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="30%"}
-![Three calfs on the farm](www/20230725_3babycows.jpg)
+![Flowering potato plants. The CSU SLVRC is also a potato breeding farm](www/20230713_purplepotatoflowers.jpg)
 :::
 ::::::::
 
